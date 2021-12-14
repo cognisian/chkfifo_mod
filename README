@@ -1,0 +1,4 @@
+A Linux kernel module to read stats on a specified command pipe.
+
+This was used to monitor Nagios to ensure that the command pipe Nagios was using
+doesn't get gummed up.
